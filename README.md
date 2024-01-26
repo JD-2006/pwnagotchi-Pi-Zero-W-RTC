@@ -13,7 +13,7 @@ $ sudo apt install python3-smbus i2c-tools
 
 $ sudo raspi-config
 
- Hit enter and then in the next screen select 'I2C'
+Hit enter and then in the next screen select 'I2C'
 
 Answer yes to confirm that you wish to enable I2C support
 
